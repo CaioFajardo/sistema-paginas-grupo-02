@@ -9,7 +9,7 @@
  */
 const equipe: { nome: string; github: string }[] = [
   // ====== INÍCIO DA ÁREA DE EDIÇÃO COLABORATIVA ======
-
+  { nome: "Caio Carvalho Fajardo de Oliveira", github: "CaioFajardo"}
   // ====== FIM DA ÁREA DE EDIÇÃO COLABORATIVA ======
 ];
 
