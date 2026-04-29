@@ -15,6 +15,7 @@ const navLinks: { href: string; label: string }[] = [
   // ====== INÍCIO DA ÁREA DE EDIÇÃO COLABORATIVA ======
   { href: "/", label: "Inicio"},
   { href: "/sobre", label: "Sobre" },
+  { href: "/servicos", label: "Servicos" },
   // ====== FIM DA ÁREA DE EDIÇÃO COLABORATIVA ======
 ];
 
