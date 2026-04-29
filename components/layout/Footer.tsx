@@ -8,8 +8,10 @@
  *       { nome: "Seu Nome Completo", github: "seu-usuario-github" },
  */
 const equipe: { nome: string; github: string }[] = [
-  // ====== INÍCIO DA ÁREA DE EDIÇÃO COLABORATIVA ======
-  
+  // ====== INÍCIO DA ÁREA DE EDIÇÃO COLABORATIVA ====== 
+  { nome: "Caio Carvalho Fajardo de Oliveira", github: "CaioFajardo"},
+  { nome: "Onofre Augusto Da Silva Belisario", github: "onofreaugusto" },
+  { nome: "Gustavo Duarte Mendonça", github: "gustavoduarte77" },
   { nome: "Emerson Bayonetta Teodoro da Silva", github: "EmersonBayonetta" },
   // ====== FIM DA ÁREA DE EDIÇÃO COLABORATIVA ======
 ];
